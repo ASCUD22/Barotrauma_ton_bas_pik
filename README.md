@@ -7,3 +7,4 @@ Repo pour mieux gérer ce superbe sous-marin
 * Sas inférieur: fermeture de la trappe supérieur lors de l'ouverture de la trappe inférieur
 * Batteries: vérifier si réel utilisation de des batteries lorsque le générateur est allumé et si fonctionnement, fixe l'utilisation
 * Echelles: Rallonger les échelles jusqu'au plafond pour faciliter la sortie des ballasts
+* Fabricateur médicale : Relier le stockage et le mettre visible dans l'interface
